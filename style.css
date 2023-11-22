@@ -4,7 +4,10 @@
   box-sizing: border-box;
   margin: 0;
   padding: 0;
+  
 }
+
+
 
 .container-fluid {
     display: inline-block;
@@ -21,11 +24,10 @@
     background-position: 15px;
     
   }
-  @media screen and (max-width :576px){
-    .title{
-        width: 15%;
-    }
-}
+
+
+  
+
   
   .containera {
     display: inline-flex;
